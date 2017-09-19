@@ -1,0 +1,9 @@
+E:\GitHub\StatGet\StatGet_CSharp\bin\Debug\StatGet_CSharp.exe.config
+E:\GitHub\StatGet_CSharp\bin\Debug\StatGet_CSharp.exe.config
+E:\GitHub\StatGet_CSharp\bin\Debug\StatGet_CSharp.exe
+E:\GitHub\StatGet_CSharp\bin\Debug\StatGet_CSharp.pdb
+E:\GitHub\StatGet_CSharp\obj\Debug\StatGet_CSharp.Form1.resources
+E:\GitHub\StatGet_CSharp\obj\Debug\StatGet_CSharp.Properties.Resources.resources
+E:\GitHub\StatGet_CSharp\obj\Debug\StatGet_CSharp.csproj.GenerateResource.Cache
+E:\GitHub\StatGet_CSharp\obj\Debug\StatGet_CSharp.exe
+E:\GitHub\StatGet_CSharp\obj\Debug\StatGet_CSharp.pdb
